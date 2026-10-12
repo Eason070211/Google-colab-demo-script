@@ -166,4 +166,3 @@ about the 12-hour cap.
 When finished: disconnect the runtime from the Colab status bar, or let
 it idle out. Nothing on the VM needs to be cleaned up; it is destroyed
 either way.
-```
