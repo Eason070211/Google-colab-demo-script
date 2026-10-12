@@ -167,7 +167,3 @@ When finished: disconnect the runtime from the Colab status bar, or let
 it idle out. Nothing on the VM needs to be cleaned up; it is destroyed
 either way.
 ```
-
----
-
-补一句：文档第 4 节里我写的是"这个脚本做什么"。如果你原本想写的是**别的测试脚本**（不是我们前面那个 MLP），把那句 "the script is for ..." 补全，我直接把这一节替换掉就行。另外如果这份要用中文版，我也可以直接翻一份。
